@@ -1,0 +1,4 @@
+Log file created at: 2025/02/20 20:52:46
+Running on machine: FineStdImg
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0220 20:52:46.035804  8715 MVCameraBase.cpp:99] Device:(name:MV-SUA501GC#0 sn:042132220283)Lost

@@ -1,0 +1,25 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fins/dev_ws/install/state_machine/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/smach_viewer/local/lib/python3.10/dist-packages",
+        "/home/fins/dev_ws/install/smach_ros/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/smach_msgs/local/lib/python3.10/dist-packages",
+        "/home/fins/dev_ws/install/smach/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/learning_topic/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/learning_node/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fins/dev_ws/install/state_machine/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/smach_viewer/local/lib/python3.10/dist-packages",
+        "/home/fins/dev_ws/install/smach_ros/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/smach_msgs/local/lib/python3.10/dist-packages",
+        "/home/fins/dev_ws/install/smach/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/learning_topic/lib/python3.10/site-packages",
+        "/home/fins/dev_ws/install/learning_node/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/fins/dev_ws/src/state_machine/state_machine/FineVision/Devices/Canvas"
+}
