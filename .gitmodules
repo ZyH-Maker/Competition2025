@@ -1,3 +1,0 @@
-[submodule "src/state_machine/state_machine/FineVision"]
-	path = src/state_machine/state_machine/FineVision
-	url = https://gitee.com/fins-robotics/FineVision.git
